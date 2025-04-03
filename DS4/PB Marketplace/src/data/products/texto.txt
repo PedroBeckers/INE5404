@@ -1,0 +1,16 @@
+CATEGORIA;0;Root
+CATEGORIA;1;Clothing
+PRODUTO;White Dress;380.90;C;Clothing;/data/images/WhiteDress.jpg
+CATEGORIA;2;T-Shirts
+PRODUTO;Plain White T-Shirt;27.50;Tee;T-Shirts;/data/images/WhiteTShirt.jpg
+PRODUTO;Plain Red T-Shirt;27.50;Tee;T-Shirts;/data/images/RedTShirt.jpg
+PRODUTO;Plain Yellow T-Shirt;27.50;Tee;T-Shirts;/data/images/YellowTShirt.jpg
+CATEGORIA;2;Shorts
+PRODUTO;Grey Workout Shorts;179.90;S;Shorts;/data/images/GreyWorkoutShorts.jpg
+CATEGORIA;3;Swimming Shorts
+PRODUTO;Blue Swimming Shorts;300.00;S;Swimming Shorts;/data/images/BlueSwimmingShorts.jpg
+CATEGORIA;1;Shoes
+PRODUTO;Dress Shoes;600.00;S;Shoes;/data/images/DressShoes.jpg
+PRODUTO;Wool Slippers;80.75;S;Shoes;/data/images/WoolSlippers.jpg
+CATEGORIA;2;Flip-Flops
+PRODUTO;Black Flip-Flops;50.99;S;Flip-Flops;/data/images/BlackFlipFlops.jpg
