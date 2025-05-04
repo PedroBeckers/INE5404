@@ -1,2 +1,2 @@
 # UFSC - Programação Orientada à Objetos II
-## Desenvolvimentos de Softwares
+## Desenvolvimentos de Software
